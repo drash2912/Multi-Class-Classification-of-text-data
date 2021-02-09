@@ -1,1 +1,1 @@
-Used Python to clean the text using libraries like pandas, numpy, re, nltk. Performed hierarchical clustering with the help of MATLAB and created a supervised training data set. Created an LSTM model for final classification into 128 categories.
+Used Python to clean the text using libraries like pandas, numpy, re. Performed hierarchical clustering with the help of MATLAB and created a supervised training data set. Created an LSTM model for final classification into 128 categories.
